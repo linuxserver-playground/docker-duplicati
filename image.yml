@@ -11,6 +11,9 @@ upstream:
     type: json
     url: https://api.github.com/repos/duplicati/duplicati/releases
     jq: first(.[] | select(.tag_name | contains("beta"))) | .tag_name
+  notes:
+    type: github_release
+    repo: duplicati/duplicati
 
 release:
   branch: development
