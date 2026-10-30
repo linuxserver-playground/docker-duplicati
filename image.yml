@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: duplicati/duplicati
+    require_assets:
+      - asset: 'linux-x64-gui\.zip$'
+      - asset: 'linux-arm64-gui\.zip$'
   notes:
     type: github_release
     repo: duplicati/duplicati
