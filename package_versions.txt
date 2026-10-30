@@ -1,5 +1,5 @@
 NAME                                                          VERSION                                TYPE                         
-@duplicati/ngclient                                           0.0.238                                npm                          
+@duplicati/ngclient                                           0.0.244                                npm                          
 AWSSDK.Core                                                   4.0.100.5                              dotnet     (+13 duplicates)  
 AWSSDK.IdentityManagement                                     4.0.100.4                              dotnet     (+13 duplicates)  
 AWSSDK.S3                                                     4.0.100.3                              dotnet     (+13 duplicates)  
@@ -28,36 +28,36 @@ BouncyCastle.Cryptography                                     2.7.0             
 CoCoL                                                         1.8.4                                  dotnet     (+9 duplicates)   
 CommunityToolkit.HighPerformance                              8.2.1                                  dotnet     (+13 duplicates)  
 DnsClient                                                     1.8.0                                  dotnet     (+7 duplicates)   
-Duplicati.Agent.Implementation.Reference                      2.4.0.1                                dotnet                       
-Duplicati.CommandLine                                         2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.AutoTuneTool                            2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.AutoUpdater                             2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.BackendTester                           2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.BackendTester.Implementation.Reference  2.4.0.1                                dotnet     (+7 duplicates)   
-Duplicati.CommandLine.BackendTool                             2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.BackendTool.Implementation.Reference    2.4.0.1                                dotnet     (+7 duplicates)   
-Duplicati.CommandLine.ConfigureTool                           2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.ConfigureTool.Implementation.Reference  2.4.0.1                                dotnet                       
-Duplicati.CommandLine.DatabaseTool                            2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.DatabaseTool.Implementation.Reference   2.4.0.1                                dotnet                       
-Duplicati.CommandLine.Implementation.Reference                2.4.0.1                                dotnet     (+6 duplicates)   
-Duplicati.CommandLine.RecoveryTool                            2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.RecoveryTool.Implementation.Reference   2.4.0.1                                dotnet     (+7 duplicates)   
-Duplicati.CommandLine.SecretTool                              2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.SecretTool.Implementation.Reference     2.4.0.1                                dotnet                       
-Duplicati.CommandLine.ServerUtil                              2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.ServerUtil.Implementation.Reference     2.4.0.1                                dotnet                       
-Duplicati.CommandLine.SharpAESCrypt                           2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.Snapshots                               2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.SourceTool                              2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.CommandLine.SourceTool.Implementation.Reference     2.4.0.1                                dotnet                       
-Duplicati.CommandLine.SyncTool                                2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.GUI.TrayIcon                                        2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.GUI.TrayIcon.Implementation.Reference               2.4.0.1                                dotnet                       
-Duplicati.Server                                              2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.Server.Implementation.Reference                     2.4.0.1                                dotnet     (+4 duplicates)   
-Duplicati.Service                                             2.4.0.1-Stable-20261007                dotnet                       
-Duplicati.Service.Implementation.Reference                    2.4.0.1                                dotnet                       
+Duplicati.Agent.Implementation.Reference                      2.4.1.0                                dotnet                       
+Duplicati.CommandLine                                         2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.AutoTuneTool                            2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.AutoUpdater                             2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.BackendTester                           2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.BackendTester.Implementation.Reference  2.4.1.0                                dotnet     (+7 duplicates)   
+Duplicati.CommandLine.BackendTool                             2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.BackendTool.Implementation.Reference    2.4.1.0                                dotnet     (+7 duplicates)   
+Duplicati.CommandLine.ConfigureTool                           2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.ConfigureTool.Implementation.Reference  2.4.1.0                                dotnet                       
+Duplicati.CommandLine.DatabaseTool                            2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.DatabaseTool.Implementation.Reference   2.4.1.0                                dotnet                       
+Duplicati.CommandLine.Implementation.Reference                2.4.1.0                                dotnet     (+6 duplicates)   
+Duplicati.CommandLine.RecoveryTool                            2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.RecoveryTool.Implementation.Reference   2.4.1.0                                dotnet     (+7 duplicates)   
+Duplicati.CommandLine.SecretTool                              2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.SecretTool.Implementation.Reference     2.4.1.0                                dotnet                       
+Duplicati.CommandLine.ServerUtil                              2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.ServerUtil.Implementation.Reference     2.4.1.0                                dotnet                       
+Duplicati.CommandLine.SharpAESCrypt                           2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.Snapshots                               2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.SourceTool                              2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.CommandLine.SourceTool.Implementation.Reference     2.4.1.0                                dotnet                       
+Duplicati.CommandLine.SyncTool                                2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.GUI.TrayIcon                                        2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.GUI.TrayIcon.Implementation.Reference               2.4.1.0                                dotnet                       
+Duplicati.Server                                              2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.Server.Implementation.Reference                     2.4.1.0                                dotnet     (+4 duplicates)   
+Duplicati.Service                                             2.4.1.0-Stable-20261029                dotnet                       
+Duplicati.Service.Implementation.Reference                    2.4.1.0                                dotnet                       
 Duplicati.StreamUtil                                          1.0.5                                  dotnet     (+16 duplicates)  
 FluentFTP                                                     54.2.0                                 dotnet     (+13 duplicates)  
 Google.Api.CommonProtos                                       2.17.0                                 dotnet     (+13 duplicates)  
@@ -89,8 +89,8 @@ HarfBuzzSharp.NativeAssets.Linux                              8.3.1.3           
 JsonSignature                                                 1.0.0                                  dotnet     (+15 duplicates)  
 MailKit                                                       4.17.0                                 dotnet     (+7 duplicates)   
 MegaApiClient                                                 1.10.4                                 dotnet     (+13 duplicates)  
-MessagePack                                                   2.5.302                                dotnet     (+9 duplicates)   
-MessagePack.Annotations                                       2.5.302                                dotnet     (+9 duplicates)   
+MessagePack                                                   2.5.307                                dotnet     (+9 duplicates)   
+MessagePack.Annotations                                       2.5.307                                dotnet     (+9 duplicates)   
 Meziantou.Framework.Win32.CredentialManager                   1.7.4                                  dotnet     (+13 duplicates)  
 MicroCom.Runtime                                              0.11.6                                 dotnet                       
 Microsoft.AspNetCore.Authentication.JwtBearer                 10.0.10                                dotnet     (+4 duplicates)   
@@ -124,29 +124,28 @@ Microsoft.IdentityModel.Logging                               8.22.0            
 Microsoft.IdentityModel.Protocols                             8.19.2                                 dotnet     (+4 duplicates)   
 Microsoft.IdentityModel.Protocols.OpenIdConnect               8.19.2                                 dotnet     (+4 duplicates)   
 Microsoft.IdentityModel.Tokens                                8.22.0                                 dotnet     (+4 duplicates)   
-Microsoft.NET.StringTools                                     18.4.0                                 dotnet     (+9 duplicates)   
+Microsoft.NET.StringTools                                     17.6.3                                 dotnet     (+9 duplicates)   
 Microsoft.OpenApi                                             2.7.5                                  dotnet     (+4 duplicates)   
-Microsoft.VisualStudio.Threading.Only                         17.14.15                               dotnet     (+9 duplicates)   
+Microsoft.VisualStudio.Threading.Only                         18.7.23                                dotnet     (+9 duplicates)   
 Microsoft.VisualStudio.Validation                             17.13.22                               dotnet     (+9 duplicates)   
 Microsoft.Win32.SystemEvents                                  10.0.0                                 dotnet     (+14 duplicates)  
-MimeKit                                                       4.17.0                                 dotnet     (+13 duplicates)  
+MimeKit                                                       4.18.2                                 dotnet     (+13 duplicates)  
 Minio                                                         6.0.0                                  dotnet     (+13 duplicates)  
 Mono.Unix                                                     7.1.0-final.1.21458.1                  dotnet     (+16 duplicates)  
 NGettext                                                      0.6.7                                  dotnet     (+16 duplicates)  
-Nerdbank.MessagePack                                          1.2.4                                  dotnet     (+9 duplicates)   
+Nerdbank.MessagePack                                          1.3.88                                 dotnet     (+9 duplicates)   
 Nerdbank.Streams                                              2.13.16                                dotnet     (+9 duplicates)   
 Newtonsoft.Json                                               13.0.4                                 dotnet     (+16 duplicates)  
 Otp.NET                                                       1.4.0                                  dotnet     (+13 duplicates)  
-PolyType                                                      1.3.1                                  dotnet     (+9 duplicates)   
+PolyType                                                      1.4.1                                  dotnet     (+9 duplicates)   
 RumpSharp                                                     1.0.1                                  dotnet                       
-SMBLibrary                                                    1.5.4                                  dotnet     (+13 duplicates)  
-SMBLibrary.Win32                                              1.5.4                                  dotnet     (+13 duplicates)  
-SQLite                                                        3.53.4                                 dotnet     (+13 duplicates)  
-SQLiteHelper.Reference                                        2.4.0.1                                dotnet     (+10 duplicates)  
+SMBLibrary                                                    1.5.8.1                                dotnet     (+13 duplicates)  
+SMBLibrary.Win32                                              1.5.8                                  dotnet     (+13 duplicates)  
+SQLite                                                        3.54.0                                 dotnet     (+13 duplicates)  
+SQLiteHelper.Reference                                        2.4.1.0                                dotnet     (+10 duplicates)  
 SQLitePCLRaw.bundle_e_sqlite3                                 3.0.5                                  dotnet     (+13 duplicates)  
 SQLitePCLRaw.config.e_sqlite3                                 3.0.5                                  dotnet     (+13 duplicates)  
 SQLitePCLRaw.core                                             3.0.5                                  dotnet     (+13 duplicates)  
-SQLitePCLRaw.lib.e_sqlite3                                    3.53.3                                 dotnet     (+13 duplicates)  
 SQLitePCLRaw.provider.e_sqlite3                               3.0.5                                  dotnet     (+13 duplicates)  
 SSH.NET                                                       2026.0.0                               dotnet     (+13 duplicates)  
 SharePointPnP.Client                                          16.1.0.0                               dotnet     (+13 duplicates)  
@@ -155,7 +154,7 @@ SharpCompress                                                 0.50.4            
 SkiaSharp                                                     3.119.4                                dotnet                       
 SkiaSharp.NativeAssets.Linux                                  3.119.4                                dotnet                       
 SshNet.Agent                                                  2024.2.0.1                             dotnet     (+13 duplicates)  
-StreamJsonRpc                                                 2.25.29                                dotnet     (+9 duplicates)   
+StreamJsonRpc                                                 2.26.150                               dotnet     (+9 duplicates)   
 Swashbuckle.AspNetCore                                        10.2.3                                 dotnet     (+4 duplicates)   
 Swashbuckle.AspNetCore.Swagger                                10.2.3                                 dotnet     (+4 duplicates)   
 Swashbuckle.AspNetCore.SwaggerGen                             10.2.3                                 dotnet     (+4 duplicates)   
@@ -170,7 +169,7 @@ System.IdentityModel.Tokens.Jwt                               8.22.0            
 System.Management                                             10.0.0                                 dotnet     (+16 duplicates)  
 System.Memory.Data                                            10.0.3                                 dotnet     (+13 duplicates)  
 System.Reactive                                               7.0.0                                  dotnet     (+13 duplicates)  
-System.Security.Cryptography.Pkcs                             10.0.0                                 dotnet     (+8 duplicates)   
+System.Security.Cryptography.Pkcs                             10.0.13                                dotnet     (+13 duplicates)  
 System.Security.Cryptography.ProtectedData                    4.5.0                                  dotnet     (+13 duplicates)  
 Tencent.QCloud.Cos.Sdk                                        5.4.11                                 dotnet     (+13 duplicates)  
 Tmds.DBus.Protocol                                            0.94.1                                 dotnet     (+13 duplicates)  
@@ -256,7 +255,7 @@ libattr1                                                      1:2.5.2-1ubuntu0.1
 libaudit-common                                               1:3.1.2-2.1ubuntu0.1                   deb                          
 libaudit1                                                     1:3.1.2-2.1ubuntu0.1                   deb                          
 libblkid1                                                     2.39.3-9ubuntu6.6                      deb                          
-libbrotli1                                                    1.1.0-2build2                          deb                          
+libbrotli1                                                    1.1.0-2ubuntu0.1                       deb                          
 libbsd0                                                       0.12.1-1build1.1                       deb                          
 libbz2-1.0                                                    1.0.8-5.1ubuntu0.1                     deb                          
 libc-bin                                                      2.39-0ubuntu8.9                        deb                          
@@ -419,5 +418,5 @@ xdg-user-dirs                                                 0.18-1build1      
 xfonts-encodings                                              1:1.0.5-0ubuntu2                       deb                          
 xfonts-utils                                                  1:7.7+6build3                          deb                          
 xz-utils                                                      5.6.1+really5.4.5-1ubuntu0.4           deb                          
-zlib1g                                                        1:1.3.dfsg-3.1ubuntu2.2                deb                          
+zlib1g                                                        1:1.3.dfsg-3.1ubuntu2.3                deb                          
 zstd                                                          1.5.5+dfsg2-2build1.1                  deb                          
